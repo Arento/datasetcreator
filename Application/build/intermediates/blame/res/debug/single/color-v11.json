@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/valerya/work/android-Camera2Basic/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/valerya/work/android-Camera2Basic/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

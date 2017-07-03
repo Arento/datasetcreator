@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/valerya/work/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/valerya/work/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/valerya/work/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/valerya/work/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

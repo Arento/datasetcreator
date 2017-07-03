@@ -1,0 +1,7 @@
+#Mon Jul 03 08:11:54 MSK 2017
+base.0=/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc9f556e26a245754e986eb371084df2d4ee424e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_380d84b4d24484595b2d848e522cec1e2b95c5a1/classes.dex
+base.1=/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_380d84b4d24484595b2d848e522cec1e2b95c5a1
+file.0=/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc9f556e26a245754e986eb371084df2d4ee424e/classes.dex

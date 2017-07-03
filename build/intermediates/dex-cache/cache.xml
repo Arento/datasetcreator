@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/47253f6b372cc7de50e85bd178fb27420da5a7e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f5688a5586a91e8679bfd3be665bf0a44ab2c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/a2960eba8af347446132a86387e2f450b2108113/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e45b4ab549373854b53702721138d01a60a976b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/460a556b405c2568fda160ba668f8d88032f5202/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fdfcb73ba96461c7b1d6904785c82ef65431350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/5c4e0598b6c19fac922e053efc296a8cf36ded66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28e476435bcbd7493a0efd76e90120dc7e5daa17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc9f556e26a245754e986eb371084df2d4ee424e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/4ba2fa4024ab3c0035109b4ea9527515a6c3a910/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9f41c93249171acf0b53866efeaab340db46fad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/c11a9488d1bd43b1f25896f1f5a70e8002402eb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfa43614d9c1736ebd3c65485b1d4793dc324c63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/7b980e80ac695720c6f77385e8bc254ca5a8f62d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3817dc642ee8b08a2cf7a9c4231c8834c6b99bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/42d991f9bc3d9eaf3f1765b14b19b98562cbeab5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3264346a3355c87e555ab79463f7038bcf9a3c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/ba46afac82a06673d8cb8e7107c3ae9090214b6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5f10bb045effdac8276953c4404ff96f05fb0ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_75784275cb4af0214d53e09cad22df2d8583cc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_850ecef5eb8c7d7002b87e1616e1aa0274b65948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f48ca7364057737a03103549716660e02fa276b6">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_380d84b4d24484595b2d848e522cec1e2b95c5a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/b7ba3771216c000648c70dc39ec76b21cc1c726e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0502669912c7b11370f6cca2a54f1edb780b7e72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/eaf87f15f8dc771936afe5534ad643e2c414c912/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1646928c40ca2ff24ff968750f7b0073cc79a0d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valerya/.android/build-cache/6ec5bb9fcbaa5e0b9384c96d5cb82071875e23a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/valerya/work/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e1748e0ea1f1a378b06d0254a6da93f3fa76a03/classes.dex" />
+    </item>
+
+</items>

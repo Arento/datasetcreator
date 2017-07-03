@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.camera2basic.SettingsActivity">
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/camerainfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Camera parameters"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/datasetname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Dataset name"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/isolower"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Lower ISO"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/isoupper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Upper ISO"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/isostep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Step for ISO"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/eclower"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Lower exposure compensation"
+                android:inputType="numberSigned" />
+
+            <EditText
+                android:id="@+id/ecupper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Upper exposure compensation"
+                android:inputType="numberSigned" />
+
+            <EditText
+                android:id="@+id/ecstep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Step for exposure compensation"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/etlower"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Lower exposure time"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/etupper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Upper exposure time"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/etstep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Step for exposure time"
+                android:inputType="numberDecimal" />
+
+            <CheckBox
+                android:id="@+id/awbcheck"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Disable all white balance" />
+
+            <Button
+                android:id="@+id/sendsettings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
